@@ -4,3 +4,5 @@ A simple little script I wrote to test the statistical validity of your physical
 It uses the Chi-Squared test which is explained here: https://en.wikipedia.org/wiki/Chi-squared_test
 
 To run just double click the Run.Bat file to launch the Dice-Tester.vbs console application. It will then walk you through the steps to test your dice and do the math for you.
+
+/u/ha5zak on Reddit wrote a great html version in case you don't want to download a copy. http://dicetest.haszak.org/
